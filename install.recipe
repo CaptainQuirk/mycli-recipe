@@ -1,0 +1,3 @@
+brew "Install Mycli"; do
+    package "mycli"
+done
